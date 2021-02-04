@@ -35,5 +35,6 @@ client.on('message', async function(message) { //Discord message recieved
 });
 ```
 **How to Get a api token go to actions settings and grab the api token**
+
 ![APITOKEN](https://cdn.discordapp.com/attachments/783764518072352809/806911212922601522/unknown.png)
 
